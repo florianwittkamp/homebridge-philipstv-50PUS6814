@@ -1,14 +1,14 @@
 {
-  "name": "homebridge-philipstv-enhanced",
-  "version": "0.1.1",
-  "description": "Homebridge module for the Philips TV (with JointSpace enabled) and ready for 2018 models",
+  "name": "homebridge-philipstv-50PUS6814",
+  "version": "0.1.2",
+  "description": "Homebridge module for the Philips TV 50PUS6814/12",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jebabin/homebridge-philipstv-enhanced.git"
+    "url": "git+https://github.com/florianwittkamp/homebridge-philipstv-50PUS6814.git"
   },
   "dependencies": {
     "polling-to-event": "^2.0.2",
@@ -25,10 +25,10 @@
     "node": ">=0.12.0",
     "homebridge": ">=0.2.0"
   },
-  "author": "jebabin",
+  "author": "florianwittkamp",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jebabin/homebridge-philipstv-enhanced/issues"
+    "url": "https://github.com/florianwittkamp/homebridge-philipstv-50PUS6814/issues"
   },
-  "homepage": "https://github.com/jebabin/homebridge-philipstv-enhanced#readme"
+  "homepage": "https://github.com/florianwittkamp/homebridge-philipstv-50PUS6814#readme"
 }
